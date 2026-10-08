@@ -59,6 +59,12 @@ Projeto de POO em Java para gerenciamento de espaços de coworking.
 
 🔗 [Ver repositório](https://github.com/wallif-portifolio/PROJETO_POO)
 
+### 🏢 Projetos de MAC
+
+Projetos de MAC em Python para composições de curricular.
+
+🔗 [Ver repositório](https://github.com/wallif-portifolio/PROJETOS_MAC)
+
 ---
 
 ## 🎯 Objetivos
