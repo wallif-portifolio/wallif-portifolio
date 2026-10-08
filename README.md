@@ -57,7 +57,7 @@ Implementações em Java dos principais padrões de projeto (Adapter, Bridge, Bu
 
 Projeto de POO em Java para gerenciamento de espaços de coworking.
 
-🔗 [Ver repositório](https://github.com/wallif-portfolio/CoWorkingManagerPOO)
+🔗 [Ver repositório](https://github.com/wallif-portifolio/PROJETO_POO)
 
 ---
 
