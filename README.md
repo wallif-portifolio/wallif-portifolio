@@ -51,7 +51,7 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 
 Implementações em Java dos principais padrões de projeto (Adapter, Bridge, Builder, Composite, Decorator, Observer, Singleton e outros).
 
-🔗 [Ver repositório](https://github.com/wallif-portfolio/PADROES-PROJETO)
+🔗 [Ver repositório](https://github.com/wallif-portifolio/PADROES-PROJETO)
 
 ### 🏢 Co-Working Manager
 
