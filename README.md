@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Olá, eu sou Wallif Ruan
 
-<!--
-**wallif-portifolio/wallif-portifolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPB (4º período) e de **Inteligência Artificial** na Uninassau.
 
-Here are some ideas to get you started:
+🖥️ Técnico em **Manutenção e Suporte em Informática** pelo IFPB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Paraíba, Brasil
+
+Estou construindo minha base em programação com projetos práticos em **Java**, focando em orientação a objetos, padrões de projeto e bancos de dados.
+
+---
+
+## 🛠️ Tecnologias
+
+![Tecnologias](https://skillicons.dev/icons?i=java,postgres,git,github,idea,eclipse,vscode)
+
+---
+
+## 📚 Estudando atualmente
+
+- Banco de Dados (PostgreSQL)
+- Programação Orientada a Objetos
+- Padrões de Projeto
+- Inteligência Artificial
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🧩 Padrões de Projeto
+Implementações em Java dos principais padrões de projeto (Adapter, Bridge, Builder, Composite, Decorator, Observer, Singleton e outros).
+
+🔗 [Ver repositório](https://github.com/wallif-portfolio/PADROES-PROJETO)
+
+### 🏢 Co-Working Manager
+Projeto de POO em Java para gerenciamento de espaços de coworking.
+
+🔗 [Ver repositório](https://github.com/wallif-portfolio/CoWorkingManagerPOO)
+
+---
+
+## 🎯 Objetivos
+
+- 💼 Conquistar minha primeira oportunidade na área de tecnologia
+- ☕ Aprofundar meus conhecimentos em Java
+- 🤖 Aprender mais sobre Inteligência Artificial
+- 🤝 Participar de projetos em equipe
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+
+---
+
+> *"A melhor forma de aprender é construindo."* 🚀
