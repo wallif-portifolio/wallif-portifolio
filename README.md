@@ -43,7 +43,7 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 
 ![Tecnologias da Arena](https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github)
 
-🔗 **Repositório:** [Arena Esportiva API](https://github.com/wallif-portfolio/PROJETO_COMERCIAL)
+🔗 **Repositório:** [Arena Esportiva API](https://github.com/wallif-portifolio/PROJETO_COMERCIAL)
 
 ---
 
