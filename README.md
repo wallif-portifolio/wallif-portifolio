@@ -12,7 +12,7 @@ Estou construindo minha base em programação com projetos práticos em **Java**
 
 ## 🛠️ Tecnologias
 
-![Tecnologias](https://skillicons.dev/icons?i=java,postgres,git,github,idea,eclipse,vscode)
+![Tecnologias](https://skillicons.dev/icons?i=java,python,postgres,git,github,idea,eclipse,vscode)
 
 ---
 
@@ -27,12 +27,34 @@ Estou construindo minha base em programação com projetos práticos em **Java**
 
 ## 🚀 Projetos em destaque
 
+### 🏟️ Arena Esportiva API
+
+API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena esportiva, em parceria com [@lazaroaraujo-dev](https://github.com/lazaroaraujo-dev).
+
+### Funcionalidades
+
+- 👤 Cadastro de usuários
+- 🏐 Cadastro de quadras
+- 📅 Agendamento de horários
+- 📊 Controle de disponibilidade
+- 🗄️ Persistência com PostgreSQL
+
+### Tecnologias utilizadas
+
+![Tecnologias da Arena](https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github)
+
+🔗 **Repositório:** [Arena Esportiva API](https://github.com/wallif-portfolio/PROJETO_COMERCIAL)
+
+---
+
 ### 🧩 Padrões de Projeto
+
 Implementações em Java dos principais padrões de projeto (Adapter, Bridge, Builder, Composite, Decorator, Observer, Singleton e outros).
 
 🔗 [Ver repositório](https://github.com/wallif-portfolio/PADROES-PROJETO)
 
 ### 🏢 Co-Working Manager
+
 Projeto de POO em Java para gerenciamento de espaços de coworking.
 
 🔗 [Ver repositório](https://github.com/wallif-portfolio/CoWorkingManagerPOO)
